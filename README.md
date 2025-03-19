@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Eros
 
-<!--
-**zeroslionel/zeroslionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la tecnología y la creación de soluciones innovadoras. Actualmente trabajo con tecnologías como **JavaScript**, **Python** y **React**.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías y Herramientas
+- **Lenguajes:** JavaScript, Python, C++
+- **Frameworks:** React, Node.js
+- **Otros:** Docker, Kubernetes, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Proyectos Destacados
+- **[Mi Proyecto 1](https://github.com/eros/proyecto1):** Una breve descripción del proyecto.
+- **[Mi Proyecto 2](https://github.com/eros/proyecto2):** Breve descripción del proyecto.
+
+## 🌐 Enlaces
+- **Portafolio:** [mi-portafolio.com](https://mi-portafolio.com)
+- **LinkedIn:** [linkedin.com/in/eros](https://linkedin.com/in/eros)
+- **Email:** eros@example.com
+
+---
+_"Siempre aprendiendo algo nuevo cada día."_ ✨
