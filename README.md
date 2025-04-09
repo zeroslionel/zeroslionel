@@ -1,4 +1,4 @@
-
+![Mi Precentacióm] (./Banner.jpg)
 👋 ¡Bienvenido a mi GitHub!  
 **Mi nombre es Eros**, y me considero un apasionado impulsor del cambio social y la cooperación comunitaria. A lo largo de mi vida y carrera profesional, he tenido la fortuna de liderar, participar y colaborar en proyectos que buscan marcar una diferencia positiva en la sociedad. Mi dedicación y enfoque siempre están guiados por el propósito de construir comunidades más unidas y solidarias.
 
